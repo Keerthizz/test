@@ -28,7 +28,7 @@ public class Test {
 
   static void div(){
 
-    int s=10;
+    int s=25;
     int t=5;
     int result3 = s/t;
     System.out.println("The division result is: " +result3);
