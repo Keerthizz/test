@@ -26,10 +26,20 @@ public class Test {
     
   }
 
+  static void div(){
+
+    int s=10;
+    int t=5;
+    int result3 = s/t;
+    System.out.println("The division result is: " +result3);
+    
+  }
+
   public static void main(String[] args)
   {
     add();
     sub();
     multi();
+    div();
   }
 }
