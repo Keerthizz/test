@@ -11,7 +11,7 @@ public class Test {
   static void sub(){
 
     int c=20;
-    int d=60;
+    int d=40;
     int result1 = c-d;
     System.out.println("The diff is " +result1);
     
